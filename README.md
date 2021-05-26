@@ -13,3 +13,5 @@ In my free time, you can catch me reading novels, playing cricket, uploading vid
 - 📫 How to reach me: @spiyush0212 on all platforms
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I consider myself a YouTuber :)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiyush0212)](https://github.com/anuraghazra/github-readme-stats)
