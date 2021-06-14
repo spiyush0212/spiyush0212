@@ -1,5 +1,3 @@
 ### A little about me
 
-I believe in developing software according to the needs of the user. My interests lie in human computer interaction (HCI) and software development engineering (SDE). In my free time, you can catch me reading novels, playing cricket or taking part in competive programming contests.  
-
-To know more about me, visit my [website](https://spiyush0212.github.io/Portfolio-Website/).
+A young adult with a zeal to develop software that benefits people and lives. Passionate about software development engineering and human-computer interaction. Looking to broaden my horizon in the field of technology. To know more about me, visit my [website](https://spiyush0212.github.io/Portfolio-Website/).
